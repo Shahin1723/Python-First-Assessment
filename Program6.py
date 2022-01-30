@@ -1,0 +1,5 @@
+data = input("Enter the three words : ")
+data = data.split(',')
+print(data)
+data.sort()
+print(data)
